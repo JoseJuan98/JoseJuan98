@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <p>
   I'm a software engineer and junior data engineer and scientist who is passionate about learning and solving problems in collaborative and international environments. 
   
-  The repositories you'll see here are mostly for my learning journey towards a new career in data science and data engineering or simply fulfilling my personal quest for knowledge. When I'm not coding you can find me at the mountains hiking, taking a walk through the city or reading about Psychology, Economy, History, Sociology or Politics. </p>
+  The repositories you'll see here are mostly for my learning journey towards a new career in data science and data engineering or simply fulfilling my personal quest for knowledge. When I'm not coding you can find me at the mountains hiking, taking a walk through the city, or reading about Psychology, Economy, History, Sociology, or Politics. </p>
 
 ### 💼 Where I Currently Work 💼
 
@@ -38,12 +38,12 @@ Here are some ideas to get you started:
 
 ### 📚 Currently Working and Learning More About:
 
-* Neural Networks and Deep Learning, by the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) of Coursera and I have been enjoying being exposed to Linear Algebra and Deep Learning. 
+* Neural Networks and Deep Learning, by the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) of Coursera, and I have been enjoying being exposed to Linear Algebra and Deep Learning. 
 
 * Bayesian Statistics, primarily through the book [Statistical Rethinking](https://www.routledge.com/Statistical-Rethinking-A-Bayesian-Course-with-Examples-in-R-and-STAN/McElreath/p/book/9780367139919).
 
-* Data Engineering with Apache Spark and Delta Lakes. Acquiring a [Data Engineer Professional Certificate](https://academy.databricks.com/data-engineer) from Databricks. I enjoy data modelling and creating data pipelines to support Data Science projects.
+* Data Engineering with Apache Spark and Delta Lakes. Acquiring a [Data Engineer Professional Certificate](https://academy.databricks.com/data-engineer) from Databricks. I enjoy data modeling and creating data pipelines to support Data Science projects.
 
 ### 👯 I’m looking to collaborate on
 
-Open source projects related with Environmental Intelligence to help to preserve nature or evaluate the state.
+Open source projects related to Environmental Intelligence to help to preserve nature or evaluate the state.
