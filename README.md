@@ -47,6 +47,8 @@ Here are some ideas to get you started:
 
 * Data Engineering with Apache Spark and Delta Lakes. Acquiring a [Data Engineer Professional Certificate](https://academy.databricks.com/data-engineer) from Databricks. I enjoy data modeling and creating data pipelines to support Data Science projects.
 
+* Distributed and GPU solutions for data processing and ML/DL. Learning about Python libraries like Dask, CuDF, CuML, CuPy, CuGraph...
+
 ### 👯 I’m looking to collaborate on
 
 Open source projects related to Environmental Intelligence to help to preserve nature or evaluate the state of it.
