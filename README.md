@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 
  <!-- LinkedIn Contact -->
   <a href="https://www.linkedin.com/in/jose-juan-peña-gómez-4b81971a9" target="_blank">
-    <img src="https://img.shields.io/badge/JoseJuanWSB-secondary-4183C4?logo=github&style=social"/>
+    <img src="https://img.shields.io/badge/-JOSE%20JUAN%20PENA%20GOMEZ-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
   
 <!-- Second GitHub Account -->
   <a href="https://www.github.com/joseJuanWSB/">
-    <img src="https://img.shields.io/badge/Secondary%20Account-JoseJuanWSB-20b2aa?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/JoseJuanWSB-secondary-4183C4?logo=github&style=social"/>
   </a>
 
 </br>
