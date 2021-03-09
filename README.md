@@ -30,7 +30,9 @@ Here are some ideas to get you started:
 <p>
   I'm a software engineer and junior data engineer and scientist who is passionate about learning and solving problems in collaborative and international environments. 
   
-  The repositories you'll see here are mostly for my learning journey towards a new career in data science and data engineering or simply fulfilling my personal quest for knowledge. When I'm not coding you can find me at the mountains hiking, taking a walk through the city, or reading about Psychology, Economy, History, Sociology, or Politics. </p>
+  The repositories you'll see here are mostly for my learning journey towards a new career in data science and data engineering or simply fulfilling my personal quest for knowledge. The repositories in my secondary account are used for teaching a course about DevOps. 
+  
+  When I'm not coding you can find me at the mountains hiking, taking a walk through the city, or reading about Psychology, Economy, History, Sociology, or Politics. </p>
 
 ### 💼 Where I Currently Work 💼
 
