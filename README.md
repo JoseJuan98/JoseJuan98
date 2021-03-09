@@ -27,6 +27,7 @@ Here are some ideas to get you started:
   </a>
 
 </br>
+</br>
 <p>
   I'm a software engineer and junior data engineer and scientist who is passionate about learning and solving problems in collaborative and international environments. 
   
