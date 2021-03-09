@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
  <!-- LinkedIn Contact -->
   <a href="https://www.linkedin.com/in/jose-juan-peña-gómez-4b81971a9" target="_blank">
-    <img src="https://img.shields.io/badge/-JOSE%20JUAN%20PENA%20GOMEZ-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JoseJuanWSB-secondary-4183C4?logo=github&style=social"/>
   </a>
   
 <!-- Second GitHub Account -->
