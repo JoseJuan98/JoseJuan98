@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   
 <!-- Second GitHub Account -->
   <a href="github.com/joseJuanWSB/">
-    <img src="https://img.shields.io/badge/SecondaryAccount-JoseJuanWSB-20b2aa?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Secondary%20Account-JoseJuanWSB-20b2aa?style=for-the-badge"/>
   </a>
 
 </br>
