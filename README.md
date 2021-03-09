@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   </a>
   
 <!-- Second GitHub Account -->
-  <a href="github.com/joseJuanWSB/">
+  <a href="https://www.github.com/joseJuanWSB/">
     <img src="https://img.shields.io/badge/Secondary%20Account-JoseJuanWSB-20b2aa?style=for-the-badge"/>
   </a>
 
