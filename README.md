@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **JoseJuan98/JoseJuan98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Jose 🧑
+## Hi, I'm Jose 🧑
 
  <!-- LinkedIn Contact -->
   <a href="https://www.linkedin.com/in/jose-juan-peña-gómez-4b81971a9" target="_blank">
