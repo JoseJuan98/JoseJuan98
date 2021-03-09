@@ -22,11 +22,11 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/-JOSE%20JUAN%20PENA%20GOMEZ-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
   
-<!-- Email -->
+<!-- Second GitHub Account
   <a href="mailto:">
     <img src="https://img.shields.io/badge/EMAIL-andrew.s.nicholls@gmail.com-20b2aa?style=for-the-badge"/>
   </a>
-  
+-->
 </br>
 <p>
   I'm a software engineer and junior data engineer and scientist who is passionate about learning and solving problems in collaborative and international environments. 
