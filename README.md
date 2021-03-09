@@ -46,4 +46,4 @@ Here are some ideas to get you started:
 
 ### 👯 I’m looking to collaborate on
 
-Open source projects related to Environmental Intelligence to help to preserve nature or evaluate the state.
+Open source projects related to Environmental Intelligence to help to preserve nature or evaluate the state of it.
