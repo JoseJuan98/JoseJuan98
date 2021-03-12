@@ -41,9 +41,9 @@ Here are some ideas to get you started:
 
 ### 📚 Currently Working and Learning More About:
 
-* Neural Networks and Deep Learning, by the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) of Coursera, and I have been enjoying being exposed to Linear Algebra and Deep Learning. 
+* Neural Networks and Deep Learning, by the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) of Coursera, and I have been enjoying being exposed to Linear Algebra and Deep Learning. [My progress](/DeepLearning_Projects)
 
-* Bayesian Statistics, primarily through the book [Statistical Rethinking](https://www.routledge.com/Statistical-Rethinking-A-Bayesian-Course-with-Examples-in-R-and-STAN/McElreath/p/book/9780367139919).
+* Bayesian Statistics, primarily through the book [Statistical Rethinking](https://www.routledge.com/Statistical-Rethinking-A-Bayesian-Course-with-Examples-in-R-and-STAN/McElreath/p/book/9780367139919). [My progress](/Statistical_Rethinking_Exercices)
 
 * Data Engineering with Apache Spark and Delta Lakes. Acquiring a [Data Engineer Professional Certificate](https://academy.databricks.com/data-engineer) from Databricks. I enjoy data modeling and creating data pipelines to support Data Science projects.
 
