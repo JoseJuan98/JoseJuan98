@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 ### 📚 Currently Working and Learning More About:
 
-* Time Serie Anlysis, I am mainly using any source that I find interesting from this [repository](https://github.com/cuge1995/awesome-time-series#Theory-Resource) which contains a lot of sources to learn.
+* Time Serie Anlysis, I am mainly using any source that I find interesting from this [repository](https://github.com/cuge1995/awesome-time-series#Theory-Resource) which contains a lot of sources to learn. Unluckly, any project related with TSA cannot be shown as there are used in my job :( .
 
 * Neural Networks and Deep Learning, by the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) of Coursera, and I have been enjoying being exposed to Linear Algebra and Deep Learning. [My progress](https://github.com/JoseJuan98/DeepLearning_Projects)
 
