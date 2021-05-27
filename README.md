@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 * Time Serie Anlysis, I am mainly using any source that I find interesting from this [repository](https://github.com/cuge1995/awesome-time-series#Theory-Resource) which contains a lot of sources to learn. Unluckly, any project related with TSA cannot be shown as there are used in my job :( .
 
-* Neural Networks and Deep Learning, by the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) of Coursera, and I have been enjoying being exposed to Linear Algebra and Deep Learning. [My progress](https://github.com/JoseJuan98/DeepLearning_Projects)
+* Neural Networks and Deep Learning, by the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) of Coursera, and I have been enjoying being exposed to Linear Algebra and Deep Learning. [My progress](https://github.com/JoseJuan98/DeepLearning_Projects) (First course, finished)
 
 * Bayesian Statistics, primarily through the book [Statistical Rethinking](https://www.routledge.com/Statistical-Rethinking-A-Bayesian-Course-with-Examples-in-R-and-STAN/McElreath/p/book/9780367139919), and some articles that you can find in [towards datascience](https://towardsdatascience.com/). At the moment this is [my progress](https://github.com/JoseJuan98/Statistical_Rethinking_Exercices)
 
