@@ -54,3 +54,11 @@ Here are some ideas to get you started:
 ### 👯 I’m looking to collaborate on
 
 Open source projects related to Environmental Intelligence to help to preserve nature or evaluate the state of it.
+
+### Certifications already earned
+
+Neural Networks & Deep Learning, DeepLearning.AI · [see credential](https://www.coursera.org/account/accomplishments/certificate/LZBV23DMQK4B)
+Data Engineering, Databricks · [see credential](https://academy.databricks.com/award/completion/d5ba41d7-d35b-35a8-9b3d-0f657d44854d/view-ext)
+Apache Spark Associate Developer, Databricks · [see credential](https://academy.databricks.com/award/completion/b39a668e-4213-31cb-ab59-158839c348be/view-ext)
+Delta Lake Accreditation, Databricks · [see credential](https://academy.databricks.com/award/completion/590f2caa-cede-376a-8843-1b0e665bbfb3/view-ext)
+Fundamentals of Unified Data Analytics, Databricks · [see credential](https://academy.databricks.com/award/completion/6caf2dae-738a-31f9-9b67-f52fbb5618bb/view-ext)
