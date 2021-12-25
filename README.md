@@ -38,12 +38,14 @@ Eager to learn and explore the synergies between Math, Computer Science and Data
 
 ### 💼 Where I Currently Work 💼
 
-[Capgemini Engineering](https://capgemini-engineering.com/us/en/): Data Engineer
+[Capgemini Engineering](https://capgemini-engineering.com/us/en/): Advanced Data Analytics Consultant - Data Engineer & Jr. Data 
+
+Developing and designing advanced analytics and data solutions within AWS, like ETL pipelines and ML models applying agile methodologies and DevOps practices in MLOps and DataOps frameworks and Feature Stores.
 
 ### 📚 What Currently I am studying 📚
 
 I am a master student in Artificial Intelligence in the University of Applied Sciences, Germany.
-*As this takes most of my team, in addition to working the learning paths below got stopped.*
+*As this takes most of my time, in addition to working the learning paths below got stopped.*
 
 ### 📚 Currently Working and Learning More About:
 
