@@ -29,16 +29,19 @@ Here are some ideas to get you started:
 </br>
 </br>
 <p>
- Software Engineer specialized in data-solutions making an expertise as Data Scientist and Data Engineer.
+Software Engineer specialized in advanced analytics and data-driven solutions making an expertise as Data Scientist and Data Engineer ( Full Stack Data Scientist ).
 Eager to learn and explore the synergies between Math, Computer Science and Data and how they apply to solve real world challenges.
   
   The repositories you'll see here are mostly for my learning journey towards a new career in data science and data engineering or simply fulfilling my personal quest for knowledge. The repositories in my secondary account are used for teaching a course about DevOps. 
   
-  When I'm not coding you can find me at the mountains hiking, taking a walk through the city, or reading about Psychology, Economy, History, Sociology, or Politics. </p>
+</p>
+<!--
+  When I'm not coding you can find me at the mountains hiking, taking a walk through the city, or reading about Psychology, Economy, History, Sociology, or Politics.
+-->
 
 ### 💼 Where I Currently Work 💼
 
-[Capgemini Engineering](https://capgemini-engineering.com/us/en/): Advanced Data Analytics Consultant - Data Engineer & Jr. Data 
+[Capgemini Engineering](https://capgemini-engineering.com/us/en/): Advanced Data Analytics Consultant - Data Engineer & Jr. Data Scientist.
 
 Developing and designing advanced analytics and data solutions within AWS, like ETL pipelines and ML models applying agile methodologies and DevOps practices in MLOps and DataOps frameworks and Feature Stores.
 
