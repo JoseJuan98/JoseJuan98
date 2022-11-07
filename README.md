@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 </br>
 </br>
 <p>
-Software Engineer specialized in advanced analytics and data-driven solutions making an expertise as Data Scientist and Data Engineer ( Full Stack Data Scientist ).
+Software Engineer specialized in Artificial Intelligence, Machine Learning and Big Data making an expertise as Data Scientist and Data Engineer (Full Stack Data Scientist or AI & ML Engineer).
+
 Eager to learn and explore the synergies between Math, Computer Science and Data and how they apply to solve real world challenges.
   
   The repositories you'll see here are mostly for my learning journey towards a new career in data science and data engineering or simply fulfilling my personal quest for knowledge. The repositories in my secondary account are used for teaching a course about DevOps. 
@@ -41,9 +42,14 @@ Eager to learn and explore the synergies between Math, Computer Science and Data
 
 ### 💼 Where I Currently Work 💼
 
-[Capgemini Engineering](https://capgemini-engineering.com/us/en/): Advanced Data Analytics Consultant - Data Engineer & Jr. Data Scientist.
+[Capgemini Engineering](https://capgemini-engineering.com/us/en/): Machine Learning Engineer & Data Engineer Consultant
 
-Developing and designing advanced analytics and data solutions within AWS, like ETL pipelines and ML models applying agile methodologies and DevOps practices in MLOps and DataOps frameworks and Feature Stores.
+Develop and deploy AI & ML systems, Big Data and data-driven solutions and the architecture and operations for development and Production environments. 
+- Development of a MLOps framework and operations, based on Python & AWS, to automate deployments to Production reducing risks and time, for ML services versioning data and models and tracking experiments.
+- Development of ML models in Python for increasing sales rates in marketing campaigns.
+- Design and development of microservices with Docker and APIs with Python for optimization of the scheduling of tasks in factories and the CI/CD pipelines to deploy them in Azure.
+- Design the operations and architecture of services for a Federated Machine Learning platform.
+- Develop a Python library to abstract ML workflows to reduce time in models’ development.
 
 ### 📚 What Currently I am studying 📚
 
@@ -74,3 +80,6 @@ Open source projects related to Environmental Intelligence to help to preserve n
 * Apache Spark Associate Developer, Databricks · [see credential](https://academy.databricks.com/award/completion/b39a668e-4213-31cb-ab59-158839c348be/view-ext)
 * Delta Lake Accreditation, Databricks · [see credential](https://academy.databricks.com/award/completion/590f2caa-cede-376a-8843-1b0e665bbfb3/view-ext)
 * Fundamentals of Unified Data Analytics, Databricks · [see credential](https://academy.databricks.com/award/completion/6caf2dae-738a-31f9-9b67-f52fbb5618bb/view-ext)
+...
+
+See more at my Linkedin profile.
