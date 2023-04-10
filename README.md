@@ -42,14 +42,15 @@ Eager to learn and explore the synergies between Math, Computer Science and Data
 
 ### 💼 Where I Currently Work 💼
 
-[Capgemini Engineering](https://capgemini-engineering.com/us/en/): Machine Learning Engineer & Data Engineer Consultant
+[Capgemini Engineering](https://capgemini-engineering.com/us/en/): Machine Learning Engineer, AI & Data Consultant
 
-Develop and deploy AI & ML systems, Big Data and data-driven solutions and the architecture and operations for development and Production environments. 
-- Development of a MLOps framework and operations, based on Python & AWS, to automate deployments to Production reducing risks and time, for ML services versioning data and models and tracking experiments.
-- Development of ML models in Python for increasing sales rates in marketing campaigns.
-- Design and development of microservices with Docker and APIs with Python for optimization of the scheduling of tasks in factories and the CI/CD pipelines to deploy them in Azure.
-- Design the operations and architecture of services for a Federated Machine Learning platform.
-- Develop a Python library to abstract ML workflows to reduce time in models’ development.
+- Developed Machine Learning Operations (MLOps) project, based on Python, and AWS Sagemaker, with data versioning using Feature Stores, models versioning in Model Registries, and history tracking of experiments and deployments.
+- Increase marketing campaigns sales rates by analyzing data from large scale databases and developing Machine Learning models in Python with Scikit-Learn and Tensorflow and resilient predictive services to serve them.
+- Facilitated the serving and CI/CD workflows of an optimizer engine to optimize the scheduling of factories processes by containerizing and building a microservice with Docker to deploy it in Kubernetes.
+- Increase team productivity and code quality by creating a guide consolidating good development, documenting, and testing practices, applying DevOps principles, and developing a Python library to abstract Machine Learning workflows. 
+- Designed the architecture and operationalization of microservices for a Federated Machine Learning platform with Django, Mlflow and Apache Airflow.
+- Contributed to AWS SageMaker SDK to facilitate the use of Feature Stores.
+- Conducted a talk about MLOps with AWS in a conference
 
 ### 📚 What Currently I am studying 📚
 
@@ -58,15 +59,20 @@ I am a master student in Artificial Intelligence in the University of Applied Sc
 
 ### 📚 Currently Working and Learning More About:
 
+
+* [Python library](https://github.com/JoseJuan98/scratchNN) for building simple Deep Neural Networks from scratch, using only vectorized operations with NumPy to develop further understanding in the inner workings of neural networks and provide a foundation for building a Production-ready Python library.
+
+* [Showcase project](https://github.com/JoseJuan98/CaliforniaHousingCensusCase) to demonstrate my Machine Learning Engineer and Consultant skills in all the cycles of a project of this kind.
+
+* Bayesian Statistics, primarily through the book [Statistical Rethinking](https://www.routledge.com/Statistical-Rethinking-A-Bayesian-Course-with-Examples-in-R-and-STAN/McElreath/p/book/9780367139919), and some articles that you can find in [towards datascience](https://towardsdatascience.com/). At the moment this is [my progress](https://github.com/JoseJuan98/Statistical_Rethinking_Exercices)
+
+
 * Time Serie Anlysis (**finished**), I am mainly using any source that I find interesting from this [repository](https://github.com/cuge1995/awesome-time-series#Theory-Resource) which contains a lot of sources to learn. Unluckly, any project related with TSA cannot be shown as there are used in my job :( .
 
 * Neural Networks and Deep Learning (**finished**), by the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) of Coursera, and I have been enjoying being exposed to Linear Algebra and Deep Learning. [My progress](https://github.com/JoseJuan98/DeepLearning_Projects) (First course, finished)
 
-* Bayesian Statistics, primarily through the book [Statistical Rethinking](https://www.routledge.com/Statistical-Rethinking-A-Bayesian-Course-with-Examples-in-R-and-STAN/McElreath/p/book/9780367139919), and some articles that you can find in [towards datascience](https://towardsdatascience.com/). At the moment this is [my progress](https://github.com/JoseJuan98/Statistical_Rethinking_Exercices)
-
 * Data Engineering with Apache Spark and Delta Lakes (**finished**). Acquiring a [Data Engineer Professional Certificate](https://academy.databricks.com/data-engineer) from Databricks. I enjoy data modeling and creating data pipelines to support Data Science projects.
 
-* Distributed and GPU solutions for data processing and ML/DL. Learning about Python libraries like Ray, Dask, TensorFlow, CuDF, CuML, CuPy, Numba, ... and learning how to make my own cluster of computers.
 
 ### 👯 I’m looking to collaborate on
 
