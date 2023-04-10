@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </br>
 </br>
 <p>
-Software Engineer specialized in Artificial Intelligence, Machine Learning and Big Data making an expertise as Data Scientist and Data Engineer (Full Stack Data Scientist or AI & ML Engineer).
+Software Engineer specialized in Artificial Intelligence, Machine Learning and Big Data making an expertise as Data Scientist, Data Engineer and AI and Data Consultant (Full Stack Data Scientist or AI & ML Engineer).
 
 Eager to learn and explore the synergies between Math, Computer Science and Data and how they apply to solve real world challenges.
   
