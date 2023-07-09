@@ -37,6 +37,7 @@ Highly motivated with a passion for exploring the intersections of Mathematics, 
 The repositories you'll see here are mostly for my learning journey towards growing in my career in data science and machine learning engineering or simply fulfilling my personal quest for knowledge.
   
 </p>
+
 ### Featured projects 🔭
 
 - **[ml-regression-project-california-housing](https://github.com/JoseJuan98/ml-regression-project-california-housing)** : showcase my ability to produce a successful and resilient Machine Learning system from the EDA to the engineering phase. Also, shows my consultant skills in all the cycles of a project of this kind.
