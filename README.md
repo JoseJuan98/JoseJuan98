@@ -29,43 +29,48 @@ Here are some ideas to get you started:
 </br>
 </br>
 <p>
-Software Engineer specialized in Artificial Intelligence, Machine Learning and Big Data making an expertise as Data Scientist, Data Engineer and AI and Data Consultant (Full Stack Data Scientist or AI & ML Engineer).
 
-Eager to learn and explore the synergies between Math, Computer Science and Data and how they apply to solve real world challenges.
-  
-  The repositories you'll see here are mostly for my learning journey towards a new career in data science and data engineering or simply fulfilling my personal quest for knowledge. The repositories in my secondary account are used for teaching a course about DevOps. 
+Experienced in the fields of Artificial Intelligence, Data Science, Software Engineering and Big Data. I specialize as Machine Learning Engineer and provide consulting services for AI & Data related projects.
+
+Highly motivated with a passion for exploring the intersections of Mathematics, Data, and Computer Science, and how they can be used to solve real-world problems.
+
+The repositories you'll see here are mostly for my learning journey towards growing in my career in data science and machine learning engineering or simply fulfilling my personal quest for knowledge.
   
 </p>
-<!--
-  When I'm not coding you can find me at the mountains hiking, taking a walk through the city, or reading about Psychology, Economy, History, Sociology, or Politics.
--->
+### Featured projects 🔭
 
-### 💼 Where I Currently Work 💼
+- **[ml-regression-project-california-housing](https://github.com/JoseJuan98/ml-regression-project-california-housing)** : showcase my ability to produce a successful and resilient Machine Learning system from the EDA to the engineering phase. Also, shows my consultant skills in all the cycles of a project of this kind.
+- **[scratch-nn](https://github.com/JoseJuan98/scratch-nn)** : python library for building simple Deep Neural Networks from scratch, using only vectorized operations with [NumPy](https://numpy.org/) to develop further understanding in the base concepts of neural networks and provide a foundation for building a Production-ready Python library.
+- **[ml-classification-titanic]** : show my skills as Data Scientist and ML Engineer. (still to be released, working on it currently)
+- **[statistical-rethinking](https://github.com/JoseJuan98/statistical-rethinking)** : repository to practice statistics with python libraries learned in the book of the same name. (Abandoned atm, I feel my statistical skills proficient for Data Science and ML, but maybe one day I will come to the basics again to learn an statistical framework)
+- **[block-chain-java](https://github.com/JoseJuan98/block-chain-java)** : simulate the functionality of a blockchain technology used by crypto-currencies.
+
+
+### Where I Currently Work 💼
 
 [Capgemini Engineering](https://capgemini-engineering.com/us/en/): Machine Learning Engineer, AI & Data Consultant
 
-- Developed Machine Learning Operations (MLOps) project, based on Python, and AWS Sagemaker, with data versioning using Feature Stores, models versioning in Model Registries, and history tracking of experiments and deployments.
-- Increase marketing campaigns sales rates by analyzing data from large scale databases and developing Machine Learning models in Python with Scikit-Learn and Tensorflow and resilient predictive services to serve them.
-- Facilitated the serving and CI/CD workflows of an optimizer engine to optimize the scheduling of factories processes by containerizing and building a microservice with Docker to deploy it in Kubernetes.
+Worked in projects related to:
+- Exploratory Data Analysis, Data Mining and design and built predictive services for different sectors like Marketing, Life Sciences, Manufacturing, Finances ...
+- Developed Machine Learning Operations (MLOps) and pipelines, based on Python, and AWS Sagemaker, with data versioning using Feature Stores, models versioning in Model Registries, and history tracking of experiments and deployments.
+- Mix Marketing Modeling with Bayesian MCMC using PyMC for a pharmaceutical company.
+- Analyzed data from large scale databases and developed Machine Learning models in Python with Scikit-Learn and Tensorflow and resilient predictive services to serve them.
+- Facilitated the serving and CI/CD workflows for an operations optimization engine based in Pyomo and building a microservice with Docker to deploy it in Kubernetes.
 - Increase team productivity and code quality by creating a guide consolidating good development, documenting, and testing practices, applying DevOps principles, and developing a Python library to abstract Machine Learning workflows. 
-- Designed the architecture and operationalization of microservices for a Federated Machine Learning platform with Django, Mlflow and Apache Airflow.
+- Designed the architecture and operations of microservices for a Federated Machine Learning platform with flwr, Tensorflow Federated, Django, Mlflow and Apache Airflow.
 - Contributed to AWS SageMaker SDK to facilitate the use of Feature Stores.
 - Conducted a talk about MLOps with AWS in a conference
 
-### 📚 What Currently I am studying 📚
+### What Currently I am studying 📚
 
-I am a master student in Artificial Intelligence in the University of Applied Sciences, Germany.
+I am a master student in Applied Artificial Intelligence online program in the [Luleå universityof technology](https://www.ltu.se/) 
 *As this takes most of my time, in addition to working the learning paths below got stopped.*
 
-### 📚 Currently Working and Learning More About:
+### Topics to learn 🌱
 
+- Mix marketing modeling (**learning currently**). Work related, so the project cannot be shown.
 
-* [Python library](https://github.com/JoseJuan98/scratchNN) for building simple Deep Neural Networks from scratch, using only vectorized operations with NumPy to develop further understanding in the inner workings of neural networks and provide a foundation for building a Production-ready Python library.
-
-* [Showcase project](https://github.com/JoseJuan98/CaliforniaHousingCensusCase) to demonstrate my Machine Learning Engineer and Consultant skills in all the cycles of a project of this kind.
-
-* Bayesian Statistics, primarily through the book [Statistical Rethinking](https://www.routledge.com/Statistical-Rethinking-A-Bayesian-Course-with-Examples-in-R-and-STAN/McElreath/p/book/9780367139919), and some articles that you can find in [towards datascience](https://towardsdatascience.com/). At the moment this is [my progress](https://github.com/JoseJuan98/Statistical_Rethinking_Exercices)
-
+* Bayesian Statistics (**stopped**), primarily through the book [Statistical Rethinking](https://www.routledge.com/Statistical-Rethinking-A-Bayesian-Course-with-Examples-in-R-and-STAN/McElreath/p/book/9780367139919), and some articles that you can find in [towards datascience](https://towardsdatascience.com/). At the moment this is [my progress](https://github.com/JoseJuan98/Statistical_Rethinking_Exercices)
 
 * Time Serie Anlysis (**finished**), I am mainly using any source that I find interesting from this [repository](https://github.com/cuge1995/awesome-time-series#Theory-Resource) which contains a lot of sources to learn. Unluckly, any project related with TSA cannot be shown as there are used in my job :( .
 
@@ -73,6 +78,8 @@ I am a master student in Artificial Intelligence in the University of Applied Sc
 
 * Data Engineering with Apache Spark and Delta Lakes (**finished**). Acquiring a [Data Engineer Professional Certificate](https://academy.databricks.com/data-engineer) from Databricks. I enjoy data modeling and creating data pipelines to support Data Science projects.
 
+- MLOps, DevOps, and AWS SageMaker (**finished**). Learned and applied in most of the projects at work.
+- Cloud (Azure, AWS) and CI/CD tools (Azure DevOps, GitHub Actions, AWS CodeBuild, CodeDeploy and CodePipeline)
 
 ### 👯 I’m looking to collaborate on
 
@@ -80,12 +87,14 @@ Open source projects related to Environmental Intelligence to help to preserve n
 
 ### Certifications already earned
 
-* Neural Networks & Deep Learning, DeepLearning.AI · [see credential](https://www.coursera.org/account/accomplishments/certificate/LZBV23DMQK4B)
-* Data Processing with Azure. [see credential](https://www.coursera.org/account/accomplishments/certificate/YWYDQVVQDU7U)
-* Data Engineering, Databricks · [see credential](https://academy.databricks.com/award/completion/d5ba41d7-d35b-35a8-9b3d-0f657d44854d/view-ext)
-* Apache Spark Associate Developer, Databricks · [see credential](https://academy.databricks.com/award/completion/b39a668e-4213-31cb-ab59-158839c348be/view-ext)
-* Delta Lake Accreditation, Databricks · [see credential](https://academy.databricks.com/award/completion/590f2caa-cede-376a-8843-1b0e665bbfb3/view-ext)
-* Fundamentals of Unified Data Analytics, Databricks · [see credential](https://academy.databricks.com/award/completion/6caf2dae-738a-31f9-9b67-f52fbb5618bb/view-ext)
+*[Exploratory Data Analysis for Machine Learning](https://www.coursera.org/account/accomplishments/certificate/ZBG4JJDG9YJ9)
+* [Neural Networks & Deep Learning, DeepLearning.AI](https://www.coursera.org/account/accomplishments/certificate/LZBV23DMQK4B)
+* [Data Processing with Azure](https://www.coursera.org/account/accomplishments/certificate/YWYDQVVQDU7U)
+* [Data Engineering, Databricks](https://academy.databricks.com/award/completion/d5ba41d7-d35b-35a8-9b3d-0f657d44854d/view-ext)
+* [Apache Spark Associate Developer, Databricks](https://academy.databricks.com/award/completion/b39a668e-4213-31cb-ab59-158839c348be/view-ext)
+* [Delta Lake Accreditation, Databricks](https://academy.databricks.com/award/completion/590f2caa-cede-376a-8843-1b0e665bbfb3/view-ext)
+* [Fundamentals of Unified Data Analytics, Databricks](https://academy.databricks.com/award/completion/6caf2dae-738a-31f9-9b67-f52fbb5618bb/view-ext)
+* Architecting and SysOps in AWS · pdf format
 ...
 
-See more at my Linkedin profile.
+See more at [my Linkedin profile](https://www.linkedin.com/in/jose-juan-pena-gomez/).
