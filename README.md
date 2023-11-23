@@ -20,6 +20,11 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/jose-juan-peña-gómez-4b81971a9" target="_blank">
     <img src="https://img.shields.io/badge/-JOSE%20JUAN%20PENA%20GOMEZ-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
+
+ <!-- Stack Overflow badge -->
+ <a href="https://stackoverflow.com/users/16984181/jose" target="_blank">
+  <img alt="StackOverflow" src="https://stackoverflow-badge.vercel.app/?userID=16984181" width="200" height="30"/>
+</a>
   
 <!-- Second GitHub Account -->
   <a href="https://www.github.com/joseJuanWSB/">
