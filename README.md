@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 </br>
 <p>
 
-Experienced in the fields of Artificial Intelligence, Data Science, Software Engineering, and Big Data. I specialize as Machine Learning Engineer and provide consulting services for AI & Data related projects.
+Experienced in the fields of Artificial Intelligence, Data Science, Software Engineering, and Big Data. I specialize as Senior Machine Learning Engineer and provide consulting services for AI & Data related projects.
 
 Highly motivated with a passion for exploring the intersections of Mathematics, Data, and Computer Science, and how they can be used to solve real-world problems.
 
@@ -49,27 +49,13 @@ The repositories you'll see here are mostly for my learning journey towards grow
 - **[scratch-nn](https://github.com/JoseJuan98/scratch-nn)**: python library for building simple Deep Neural Networks from scratch, using only vectorized operations with [NumPy](https://numpy.org/) to develop further understanding in the base concepts of neural networks and provide a foundation for building a Production-ready Python library.
 - **[ml-classification-titanic]**: show my skills as Data Scientist and ML Engineer. (still to be released, working on it currently)
 - **[statistical-rethinking](https://github.com/JoseJuan98/statistical-rethinking)**: repository to practice statistics with Python libraries learned in the book of the same name. (Abandoned atm, I feel my statistical skills are proficient for Data Science and ML, but maybe one day I will come to the basics again to learn a statistical framework)
-- **[block-chain-java](https://github.com/JoseJuan98/block-chain-java)**: simulate the functionality of blockchain technology used by crypto-currencies.
+- **[computer-vision-classification-experiments](https://github.com/JoseJuan98/computer-vision-classification-experiments)**: Computer Vision classification experiments training and testing Convolutional Neural Networks (CNNs) to analyze the impact of different parameters and the use of techniques such as feature extraction and transfer learning.
 
 
-### My Role 💼
-
-Machine Learning Engineer, AI & Data Consultant
-
-Worked on projects related to:
-- Exploratory Data Analysis, Data Mining, and design and build predictive services for different sectors like Marketing, Life Sciences, Manufacturing, Finances ...
-- Developed Machine Learning Operations (MLOps) and pipelines, based on Python, and AWS Sagemaker, with data versioning using Feature Stores, models versioning in Model Registries, and history tracking of experiments and deployments.
-- Mix Marketing Modeling with Bayesian MCMC using PyMC for a pharmaceutical company.
-- Analyzed data from large-scale databases and developed Machine Learning models in Python with Scikit-Learn and TensorFlow and resilient predictive services to serve them.
-- Facilitated the serving and CI/CD workflows for an operations optimization engine based in Pyomo and built a microservice with Docker to deploy it in Kubernetes.
-- Increase team productivity and code quality by creating a guide consolidating good development, documenting, and testing practices, applying DevOps principles, and developing a Python library to abstract Machine Learning workflows. 
-- Designed the architecture and operations of microservices for a Federated Machine Learning platform with flwr, Tensorflow Federated, Django, Mlflow, and Apache Airflow.
-- Contributed to AWS SageMaker SDK to facilitate the use of Feature Stores.
-- Conducted a talk about MLOps with AWS at a conference
 
 ### What Currently I am studying 📚
 
-I am a master's student in the Applied Artificial Intelligence online program at the [Luleå University of Technology](https://www.ltu.se/) 
+I am a master's student in the Applied Artificial Intelligence online program at the [Luleå University of Technology](https://www.ltu.se/) with the Neuromorphic Computing specialization.
 *As this takes most of my time, in addition to working the learning paths below got stopped.*
 
 ### Topics to learn 🌱
@@ -91,17 +77,6 @@ I am a master's student in the Applied Artificial Intelligence online program at
 
 Open source projects related to Environmental Intelligence to help to preserve nature or evaluate the state of it.
 
-### Certifications already earned
-
-* [Supervised Machine Learning: RegressionSupervised Machine Learning: Regression](https://www.coursera.org/account/accomplishments/certificate/JYSK7EGW7H5N)
-* [Exploratory Data Analysis for Machine Learning](https://www.coursera.org/account/accomplishments/certificate/ZBG4JJDG9YJ9)
-* [Neural Networks & Deep Learning, DeepLearning.AI](https://www.coursera.org/account/accomplishments/certificate/LZBV23DMQK4B)
-* [Data Processing with Azure](https://www.coursera.org/account/accomplishments/certificate/YWYDQVVQDU7U)
-* [Data Engineering, Databricks](https://academy.databricks.com/award/completion/d5ba41d7-d35b-35a8-9b3d-0f657d44854d/view-ext)
-* [Apache Spark Associate Developer, Databricks](https://academy.databricks.com/award/completion/b39a668e-4213-31cb-ab59-158839c348be/view-ext)
-* [Delta Lake Accreditation, Databricks](https://academy.databricks.com/award/completion/590f2caa-cede-376a-8843-1b0e665bbfb3/view-ext)
-* [Fundamentals of Unified Data Analytics, Databricks](https://academy.databricks.com/award/completion/6caf2dae-738a-31f9-9b67-f52fbb5618bb/view-ext)
-* Architecting and SysOps in AWS · pdf format
-...
+### Work experience and certifications
 
 See more at [my Linkedin profile](https://www.linkedin.com/in/jose-juan-pena-gomez/).
