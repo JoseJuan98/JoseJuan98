@@ -52,12 +52,12 @@ The repositories you'll see here are mostly for my learning journey towards grow
 - **[block-chain-java](https://github.com/JoseJuan98/block-chain-java)**: simulate the functionality of blockchain technology used by crypto-currencies.
 
 
-### Where I Currently Work 💼
+### My Role 💼
 
-[Capgemini Engineering](https://capgemini-engineering.com/us/en/): Machine Learning Engineer, AI & Data Consultant
+Machine Learning Engineer, AI & Data Consultant
 
 Worked on projects related to:
-- Exploratory Data Analysis, Data Mining, and design and built predictive services for different sectors like Marketing, Life Sciences, Manufacturing, Finances ...
+- Exploratory Data Analysis, Data Mining, and design and build predictive services for different sectors like Marketing, Life Sciences, Manufacturing, Finances ...
 - Developed Machine Learning Operations (MLOps) and pipelines, based on Python, and AWS Sagemaker, with data versioning using Feature Stores, models versioning in Model Registries, and history tracking of experiments and deployments.
 - Mix Marketing Modeling with Bayesian MCMC using PyMC for a pharmaceutical company.
 - Analyzed data from large-scale databases and developed Machine Learning models in Python with Scikit-Learn and TensorFlow and resilient predictive services to serve them.
