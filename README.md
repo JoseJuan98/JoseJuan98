@@ -39,7 +39,7 @@ Experienced in the fields of Artificial Intelligence, Data Science, Software Eng
 
 Highly motivated with a passion for exploring the intersections of Mathematics, Data, and Computer Science, and how they can be used to solve real-world problems.
 
-The repositories you'll see here are mostly for my learning journey towards growing in my career in data science and machine learning engineering or simply fulfilling my personal quest for knowledge.
+The repositories you'll see here are mostly for my learning journey towards growing in my career in data science and machine learning engineering or simply fulfilling my quest for knowledge.
   
 </p>
 
@@ -47,11 +47,19 @@ The repositories you'll see here are mostly for my learning journey towards grow
 
 - **[ml-regression-project-california-housing](https://github.com/JoseJuan98/ml-regression-project-california-housing)**: showcase my ability to produce a successful and resilient Machine Learning system from the EDA to the engineering phase. It also shows my consultant skills in all the cycles of a project of this kind.
 
+<img src="https://github.com/JoseJuan98/ml-regression-project-california-housing/blob/master/artifacts/plots/population_density_and_price.png?raw=true" width="50%" height="50%"/>
+
 - **[real-time-detection-system](https://github.com/JoseJuan98/real-time-detection-system)**: experiments for real-time object detection, decoy filtering and localization using YOLOv11, OpenCV and Faster R-CNN.
+
+<img alt="" src="https://github.com/JoseJuan98/real-time-detection-system/blob/master/docs/img/faster_rcnn_experiment/with_decoy_filtering_and_3d_pos.png?raw=true" width="80%" height="50%"/>
  
 - **[stock-price-prediction](https://github.com/JoseJuan98/stock-price-prediction)**: analysis of time series, data and feature engineering as a base to develop predictive models that can forecast future stock index value prices of an index based on historical data.
 
+<img alt="" src="https://github.com/JoseJuan98/stock-price-prediction/blob/master/docs/img/forecast/GBM_Model_forecast.png?raw=true" width="80%" height="60%"/>
+
 - **[computer-vision-classification-experiments](https://github.com/JoseJuan98/computer-vision-classification-experiments)**: Computer Vision classification experiments training and testing Convolutional Neural Networks (CNNs) to analyze the impact of different parameters and the use of techniques such as feature extraction and transfer learning.
+
+<img src="https://github.com/JoseJuan98/computer-vision-classification-experiments/blob/master/docs/plots/metrics_alexnet_fine_tuning.png?raw=true" width="50%" height="50%"/>
 
 - **[scratch-nn](https://github.com/JoseJuan98/scratch-nn)**: python library for building simple Deep Neural Networks from scratch, using only vectorized operations with [NumPy](https://numpy.org/) to develop further understanding in the base concepts of neural networks and provide a foundation for building a Production-ready Python library.
 
