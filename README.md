@@ -46,13 +46,15 @@ The repositories you'll see here are mostly for my learning journey towards grow
 ### Featured projects 🔭
 
 - **[ml-regression-project-california-housing](https://github.com/JoseJuan98/ml-regression-project-california-housing)**: showcase my ability to produce a successful and resilient Machine Learning system from the EDA to the engineering phase. It also shows my consultant skills in all the cycles of a project of this kind.
+
 - **[real-time-detection-system](https://github.com/JoseJuan98/real-time-detection-system)**: experiments for real-time object detection, decoy filtering and localization using YOLOv11, OpenCV and Faster R-CNN.
+ 
 - **[stock-price-prediction](https://github.com/JoseJuan98/stock-price-prediction)**: analysis of time series, data and feature engineering as a base to develop predictive models that can forecast future stock index value prices of an index based on historical data.
 
-<img alt="" src="https://github.com/JoseJuan98/stock-price-prediction/tree/master/docs/img/forecast/GBM_Model_forecast.png" width="400" height="300" />
-
 - **[computer-vision-classification-experiments](https://github.com/JoseJuan98/computer-vision-classification-experiments)**: Computer Vision classification experiments training and testing Convolutional Neural Networks (CNNs) to analyze the impact of different parameters and the use of techniques such as feature extraction and transfer learning.
+
 - **[scratch-nn](https://github.com/JoseJuan98/scratch-nn)**: python library for building simple Deep Neural Networks from scratch, using only vectorized operations with [NumPy](https://numpy.org/) to develop further understanding in the base concepts of neural networks and provide a foundation for building a Production-ready Python library.
+
 - **[statistical-rethinking](https://github.com/JoseJuan98/statistical-rethinking)**: repository to practice statistics with Python libraries learned in the book of the same name. (Abandoned atm, I feel my statistical skills are proficient for Data Science and ML, but maybe one day I will come to the basics again to learn a statistical framework)
 
 
