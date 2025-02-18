@@ -49,29 +49,36 @@ The repositories you'll see here are mostly for my learning journey towards grow
 
 <div align="center">
     <img src="https://github.com/JoseJuan98/ml-regression-project-california-housing/blob/master/artifacts/plots/population_density_and_price.png?raw=true" width="50%" height="50%"/>
+    <p style="text-align: center">Figure 1: Population Density and Housing Price by Geographic Area</p>
  </div>
 
 - **[Stock Price Prediction](https://github.com/JoseJuan98/stock-price-prediction)**: analysis of multivariate time series, data, and feature engineering as a base to develop predictive models that can forecast future stock index value prices of an index based on historical data.
 
 <div align="center">
     <img alt="" src="https://github.com/JoseJuan98/stock-price-prediction/blob/master/docs/img/forecast/GBM_Model_forecast.png?raw=true" width="80%" height="60%"/>
+    <p style="text-align: center"> Figure 2: Forecast of the Stock Price using Gradient Boosting Machine</p>
 </div>
 
 - **[Computer Vision for Classification Experiments](https://github.com/JoseJuan98/computer-vision-classification-experiments)**: Computer Vision classification experiments training and testing Convolutional Neural Networks (CNNs) to analyze the impact of different parameters and the use of techniques such as feature extraction and transfer learning.
 
 <div align="center">
     <img src="https://github.com/JoseJuan98/computer-vision-classification-experiments/blob/master/docs/plots/metrics_alexnet_fine_tuning.png?raw=true" width="50%" height="50%"/>
+    <p style="text-align: center">Figure 3: Metrics for AlexNet fine-tuning</p>
 </div>
 
 - **[Real-Time Detection System](https://github.com/JoseJuan98/real-time-detection-system)**: experiments for real-time object detection, decoy filtering and localization using YOLOv11, OpenCV and Faster R-CNN.
 
 <div align="center">
     <img alt="" src="https://github.com/JoseJuan98/real-time-detection-system/blob/master/docs/img/faster_rcnn_experiment/with_decoy_filtering_and_3d_pos.png?raw=true" width="80%" height="50%"/>
+    <p style="text-align: center"> Figure 4: Object detection, decoy filtering and 3D position estimation using Depth images
+</p>
 </div>
+
 - **[Neuromorphic Computing for Spoken Digits Detection](https://github.com/JoseJuan98/neuromorphic-computing-spoken-digits-detection)**: Spiking Neural Network implementation for classification of spoken digits using the Spiking Heidelberg Digits (SHD) dataset.
 
 <div align="center">
     <img alt="" src="https://github.com/JoseJuan98/neuromorphic-computing-spoken-digits-detection/blob/master/docs/img/digit_samples.png?raw=true" width="30%" height="40%"/>
+    <p style="text-align: center"> Figure 5: Samples of Spoken Digits</p>
 </div>
 
 - **[Scratch DNN](https://github.com/JoseJuan98/scratch-nn)**: python library for building simple Deep Neural Networks from scratch, using only vectorized operations with [NumPy](https://numpy.org/) to develop further understanding in the base concepts of neural networks and provide a foundation for building a Production-ready Python library.
