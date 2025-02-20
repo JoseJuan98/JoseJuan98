@@ -74,11 +74,18 @@ The repositories you'll see here are mostly for my learning journey towards grow
 </p>
 </div>
 
-- **[Neuromorphic Computing for Spoken Digits Detection](https://github.com/JoseJuan98/neuromorphic-computing-spoken-digits-detection)**: Spiking Neural Network implementation for classification of spoken digits using the Spiking Heidelberg Digits (SHD) dataset.
+- **[Neuromorphic Computing for Spoken Digits Detection](https://github.com/JoseJuan98/neuromorphic-computing-spoken-digits-detection)**: Spiking Neural Network (SNN) implementation for classification of spoken digits using the Spiking Heidelberg Digits (SHD) dataset.
 
 <div align="center">
     <img alt="" src="https://github.com/JoseJuan98/neuromorphic-computing-spoken-digits-detection/blob/master/docs/img/digit_samples.png?raw=true" width="50%" height="40%"/>
     <p style="text-align: center"> Figure 5: Samples of Spoken Digits</p>
+</div>
+
+- **[EEG Spiking Neural Network Project](https://github.com/JoseJuan98/eeg-spinking-neural-network)**: classification of brain signals using Electroencephalogram (EEG) data and Spiking Neural Networks (SNNs)
+
+<div align="center">
+    <img alt="" src="https://github.com/JoseJuan98/eeg-spinking-neural-network/blob/master/docs/img/components_heatmap.png?raw=true" width="50%" height="50%"/>
+    <p style="text-align: center"> Figure 6: Components Heatmap of EEG signals</p>
 </div>
 
 - **[Scratch DNN](https://github.com/JoseJuan98/scratch-nn)**: python library for building simple Deep Neural Networks from scratch, using only vectorized operations with [NumPy](https://numpy.org/) to develop further understanding in the base concepts of neural networks and provide a foundation for building a Production-ready Python library.
