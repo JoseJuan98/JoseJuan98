@@ -38,7 +38,7 @@ The repositories you'll see here are mostly for my learning journey towards grow
 
 ### 🔬 Academic Background
 
-I am currently completing my **Master's in Applied Artificial Intelligence** at [Luleå University of Technology](https://www.ltu.se/), specializing in **Neuromorphic Computing**. 
+I am currently completing my **Master's in Applied Artificial Intelligence** at [Luleå University of Technology](https://www.ltu.se/), with specialization in **Natural Language Processing** and **Neuromorphic Computing**. 
 My thesis focuses on **enhancing the attention mechanism in transformers using HDC methods**, a key area in modern AI research.
 
 ### 🌟 Featured projects
