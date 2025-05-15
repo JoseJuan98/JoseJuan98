@@ -45,7 +45,7 @@ My thesis focuses on **enhancing the attention mechanism in transformers using H
 
 - **[Enhancing Transformer Attention with HDC Binding for Positional Encodings](https://github.com/JoseJuan98/transformer-attention-with-hdc-binding)**: Master's thesis investigating if Hyperdimensional Computing (HDC) binding methods can enhance Transformer performance on time series classification by providing more robust positional encoding. Compares different HDC binding techniques and benchmarks against standard Transformers and ConvTran. Tech Stack: Python, PyTorch, PyTorch Lightning, Poetry.
 <div align="center">
-    <img src="https://github.com/JoseJuan98/transformer-attention-with-hdc-binding/blob/master/docs/diagrams/Model_Blocks.png?raw=true" width="50%" height="50%"/>
+    <img src="https://github.com/JoseJuan98/transformer-attention-with-hdc-binding/blob/master/docs/diagrams/Model_Blocks.png?raw=true" width="40%" height="40%"/>
     <p style="text-align: center">Figure 1: A high-level design of the proposed time series transformer classifier architecture.</p>
  </div>
 
