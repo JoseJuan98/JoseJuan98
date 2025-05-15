@@ -39,35 +39,41 @@ The repositories you'll see here are mostly for my learning journey towards grow
 ### 🔬 Academic Background
 
 I am currently completing my **Master's in Applied Artificial Intelligence** at [Luleå University of Technology](https://www.ltu.se/), specializing in **Neuromorphic Computing**. 
-My thesis focuses on **enhancing the attention mechanism in transformers**, a key area in modern AI research.
+My thesis focuses on **enhancing the attention mechanism in transformers using HDC methods**, a key area in modern AI research.
 
 ### 🌟 Featured projects
+
+- **[Enhancing Transformer Attention with HDC Binding for Positional Encodings](https://github.com/JoseJuan98/transformer-attention-with-hdc-binding)**: Master's thesis investigating if Hyperdimensional Computing (HDC) binding methods can enhance Transformer performance on time series classification by providing more robust positional encoding. Compares different HDC binding techniques and benchmarks against standard Transformers and ConvTran. Tech Stack: Python, PyTorch, PyTorch Lightning, Poetry.
+<div align="center">
+    <img src="https://github.com/JoseJuan98/transformer-attention-with-hdc-binding/blob/master/docs/diagrams/Model_Blocks.png?raw=true" width="50%" height="50%"/>
+    <p style="text-align: center">Figure 1: A high-level design of the proposed time series transformer classifier architecture.</p>
+ </div>
 
 - **[ML Full-stack Project for Predicting California Housing Prices](https://github.com/JoseJuan98/ml-regression-project-california-housing)**: Showcases the end-to-end development of a Machine Learning system, from **Exploratory Data Analysis (EDA)** to the deployment. It also shows my ability to consult and manage all phases of a project lifecycle. Tech Stack: Python, Scikit-Learn, Flask, Docker, Pandas, Tensorflow.
 <div align="center">
     <img src="https://github.com/JoseJuan98/ml-regression-project-california-housing/blob/master/artifacts/plots/population_density_and_price.png?raw=true" width="50%" height="50%"/>
-    <p style="text-align: center">Figure 1: Population Density and Housing Price by Geographic Area</p>
+    <p style="text-align: center">Figure 2: Population Density and Housing Price by Geographic Area</p>
  </div>
 
 - **[Stock Price Prediction](https://github.com/JoseJuan98/stock-price-prediction)**: Developed predictive models for forecasting stock prices using **multivariate time series analysis** and **feature engineering**. Tech Stack: Python, PyTorch, Pandas, Scikit-Learn, PyTorch Lightning.
 
 <div align="center">
     <img alt="" src="https://github.com/JoseJuan98/stock-price-prediction/blob/master/docs/img/forecast/GBM_Model_forecast.png?raw=true" width="80%" height="60%"/>
-    <p style="text-align: center"> Figure 2: Forecast of the Stock Price using Gradient Boosting Machine</p>
+    <p style="text-align: center"> Figure 3: Forecast of the Stock Price using Gradient Boosting Machine</p>
 </div>
 
 - **[Computer Vision for Classification Experiments](https://github.com/JoseJuan98/computer-vision-classification-experiments)**: Conducted experiments with **Convolutional Neural Networks (CNNs)** to analyze the impact of parameters, feature extraction, and transfer learning. Tech Stack: Python, PyTorch, Torchvision, PyTorch Lightning.
 
 <div align="center">
     <img src="https://github.com/JoseJuan98/computer-vision-classification-experiments/blob/master/docs/plots/metrics_alexnet_fine_tuning.png?raw=true" width="50%" height="50%"/>
-    <p style="text-align: center">Figure 3: Metrics for AlexNet fine-tuning</p>
+    <p style="text-align: center">Figure 4: Metrics for AlexNet fine-tuning</p>
 </div>
 
 - **[Real-Time Detection System](https://github.com/JoseJuan98/real-time-detection-system)**: Built a real-time object detection system using **YOLOv11**, **OpenCV**, and **Faster R-CNN** for decoy filtering and localization. Tech Stack: Python, TensorFlow, OpenCV, PyTorch, Torchvision, Scikit-Image.
 
 <div align="center">
     <img alt="" src="https://github.com/JoseJuan98/real-time-detection-system/blob/master/docs/img/faster_rcnn_experiment/with_decoy_filtering_and_3d_pos.png?raw=true" width="80%" height="50%"/>
-    <p style="text-align: center"> Figure 4: Object detection, decoy filtering and 3D position estimation using Depth images
+    <p style="text-align: center"> Figure 5: Object detection, decoy filtering and 3D position estimation using Depth images
 </p>
 </div>
 
@@ -75,14 +81,14 @@ My thesis focuses on **enhancing the attention mechanism in transformers**, a ke
 
 <div align="center">
     <img alt="" src="https://github.com/JoseJuan98/neuromorphic-computing-spoken-digits-detection/blob/master/docs/img/digit_samples.png?raw=true" width="50%" height="40%"/>
-    <p style="text-align: center"> Figure 5: Samples of Spoken Digits</p>
+    <p style="text-align: center"> Figure 6: Samples of Spoken Digits</p>
 </div>
 
 - **[EEG Spiking Neural Network Project](https://github.com/JoseJuan98/eeg-spinking-neural-network)**: Developed a system for classifying brain signals using **Electroencephalogram (EEG)** data and **Spiking Neural Networks (SNNs)**. This project explores the intersection of **neuroscience** and **machine learning**, leveraging the temporal dynamics of spiking neurons to process EEG signals effectively. Tech Stack: Python, SNNTorch, PyTorch, Tonic.
 
 <div align="center">
     <img alt="" src="https://github.com/JoseJuan98/eeg-spinking-neural-network/blob/master/docs/img/components_heatmap.png?raw=true" width="50%" height="50%"/>
-    <p style="text-align: center"> Figure 6: Components Heatmap of EEG signals</p>
+    <p style="text-align: center"> Figure 7: Components Heatmap of EEG signals</p>
 </div>
 
 - **[Scratch DNN](https://github.com/JoseJuan98/scratch-nn)**: Built a Python library for creating simple **Deep Neural Networks (DNNs)** from scratch using only **NumPy**. This project was designed to deepen my understanding of the fundamental concepts behind neural networks and provide a foundation for building production-ready libraries..
